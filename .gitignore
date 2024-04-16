@@ -1,0 +1,5 @@
+# Ignore the samples folder
+/samples/
+/MIRtoolbox1.8.2/
+# Ignore any .xlsx files
+*.xlsx
